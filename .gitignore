@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.venv/
+
+# Data / vectorstore
+data/
+vectorstore/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
